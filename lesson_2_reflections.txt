@@ -5,3 +5,5 @@ The .git folder is created. It contains metadata for commit history and folder s
 How is the staging area different from the working directory and the repository? What value do you thing it offers?
 
 The staging area is the "middle man" between the working directory and repository. It allows individual files to be commited and eliminates confusion. 
+
+How can you use the staging area to make sure you have one commit per logical change?
