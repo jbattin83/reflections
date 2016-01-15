@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need it?
+
+The .git folder is created. It contains metadata for commit history and folder structures. 
+
+How is the staging area different from the working directory and the repository? What value do you thing it offers?
+
+The staging area is the "middle man" between the working directory and repository. It allows individual files to be commited and eliminates confusion. 
